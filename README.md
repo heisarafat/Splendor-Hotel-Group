@@ -30,7 +30,7 @@ The analysis is structured around several business-critical areas:
 - **Time-to-Event Analysis:** Impact of lead time on behavior and revenue.
 - **Agent Comparison:** Online vs. offline agent performance.
 
-> _Only the **Booking Patterns & Customer Behavior** section has been completed so far. Other sections will be added incrementally._
+> _Only the **3/10** section has been completed so far. Other sections will be added incrementally._
 
 ---
 
